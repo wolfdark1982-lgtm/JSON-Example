@@ -1,3 +1,3 @@
 :: Make Sure is node.js is installed
-node jhwcode.js
+node HelloWorld.js
 pause
